@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff3e0; /* warm croissant-like background */
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #6d4c41;
+}
+
+h1 {
+  color: #6d4c41;
+}
